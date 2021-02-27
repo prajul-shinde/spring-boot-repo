@@ -1,0 +1,24 @@
+server:
+  port:8080
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include:
+          - "*"
+  endpoint:
+    health:
+      show-details: always
+intfo:
+  application:
+    name: spring boot actuator tutorial
+    Description: spring boot actuator in spring boot latest
+    artifact: springboot-actuator
+    version: 0.0.1-snapshot
+  techstack:
+    java: version 11 lts
+    spring boot: 2.4.2
+
+
+

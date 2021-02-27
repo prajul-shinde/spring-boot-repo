@@ -1,0 +1,5 @@
+com\example\jdbc4\jdbc4\DAOs\Person.class
+com\example\jdbc4\jdbc4\Jdbc4Application.class
+com\example\jdbc4\jdbc4\controllers\PersonController.class
+com\example\jdbc4\jdbc4\DBManager\DBOperations.class
+com\example\jdbc4\jdbc4\Requests\CreateRequest.class

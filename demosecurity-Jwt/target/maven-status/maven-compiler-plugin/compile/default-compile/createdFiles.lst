@@ -1,0 +1,10 @@
+com\example\demosecurityjwt\demosecurityJwt\WebSecurityConfig.class
+com\example\demosecurityjwt\demosecurityJwt\MyUserDetailService.class
+com\example\demosecurityjwt\demosecurityJwt\AuthenticationResponse.class
+com\example\demosecurityjwt\demosecurityJwt\JwtRequestFilter.class
+com\example\demosecurityjwt\demosecurityJwt\Utils.class
+com\example\demosecurityjwt\demosecurityJwt\WebController.class
+com\example\demosecurityjwt\demosecurityJwt\AuthenticationRequest.class
+com\example\demosecurityjwt\demosecurityJwt\DemosecurityJwtApplication.class
+com\example\demosecurityjwt\demosecurityJwt\MyUserDetails.class
+com\example\demosecurityjwt\demosecurityJwt\UserServiceRepository.class

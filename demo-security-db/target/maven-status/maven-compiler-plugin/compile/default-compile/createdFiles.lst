@@ -1,0 +1,6 @@
+com\example\demosecurity4\demosecurity\DemoSecurityApplication.class
+com\example\demosecurity4\demosecurity\repository\UserRepository.class
+com\example\demosecurity4\demosecurity\configuration\FooBarConfig.class
+com\example\demosecurity4\demosecurity\controller\FooBarController.class
+com\example\demosecurity4\demosecurity\model\User.class
+com\example\demosecurity4\demosecurity\service\MyUserDetailsService.class
